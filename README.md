@@ -36,6 +36,7 @@ Paid platforms that track AI visibility over time. "Engines" lists what each ven
 | [Conductor](https://www.conductor.com) | Enterprise AEO and SEO platform that tracks mentions, citations and sentiment in AI answers alongside search performance. | ChatGPT, Google AI Overviews, Copilot, Gemini, Perplexity | Free AI visibility report |
 | [Evertune](https://www.evertune.ai) | Measures an AI Brand Score from 0 to 100 using repeated unbranded prompts, with word association and content analytics. | ChatGPT, Gemini, Claude, Perplexity, Copilot, DeepSeek, Meta AI, Google AI Overviews, Google AI Mode | Not stated |
 | [Gauge](https://www.withgauge.com) | Tracks your share of AI answers, cited sources and competitors, with a content engine and nightly page audits. | Varies by plan: ChatGPT, Google AI Mode and Copilot, with more on higher plans | Not stated |
+| [Hide and Seek](https://hideandseek.bot/) | Asks the questions your customers ask, compares you with the competitors you name and the ones it finds, and digs through the pages AI cites to show where you appear and where only competitors do. Asks again every month. | ChatGPT, Claude, Gemini, Perplexity | Free site score |
 | [Keyword.com](https://keyword.com/ai-search-visibility/) | AI visibility tracker alongside a keyword rank tracker: mentions, cited URLs, sentiment and competitor benchmarks. | Google AI Overviews, Google AI Mode, ChatGPT, Gemini, Perplexity | Not stated |
 | [Knowatoa](https://knowatoa.com) | Daily AI search monitoring of mentions, rankings, sentiment and citations. | ChatGPT, Claude, Perplexity, Gemini and more, depending on plan | Not stated |
 | [LLMrefs](https://llmrefs.com) | Keyword based AI search analytics: generates prompts from your keywords and reports share of voice, citations and average position. | ChatGPT, Google AI Overviews, Google AI Mode, Perplexity, Gemini, Claude, Grok, Copilot, Meta AI, DeepSeek | Free tier |
@@ -89,6 +90,7 @@ These test your website, not AI answers: whether AI crawlers are allowed in and 
 | Tool | What it does (vendor stated) | Free |
 |---|---|---|
 | [Backlinko AI Agent Readiness Checker](https://backlinko.com/tools/ai-agent-readiness) | Checks how ready a site is for AI agents. | Yes |
+| [Hide and Seek](https://hideandseek.bot/) | Scores whether AI search and answer crawlers can reach, read and identify a website, against a published rubric, with a fix for each problem. No account needed. | Yes |
 | [Knowatoa AI Search Console](https://knowatoa.com/features/ai-search-console) | Tests how more than 15 AI bots, including GPTBot and PerplexityBot, can access your website. | See site |
 | [ONEGO AI crawler checker](https://onego.ai/ai-crawler-checker) | Reads a site's robots.txt and llms.txt and reports which AI search and AI training crawlers may read it. | Yes |
 
